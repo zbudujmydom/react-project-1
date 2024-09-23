@@ -1,0 +1,17 @@
+.menu {
+  background-color: darkblue;
+  color: white;
+  padding: 16px;
+}
+
+.companyName {
+  font-size: 32px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+@media (min-width: 1200px) {
+  .menu {
+    background-color: red;
+  }
+}

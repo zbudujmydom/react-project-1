@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  gap: 32px;
+}
+
+.photo {
+  width: 200px;
+  border-radius: 50%;
+}
